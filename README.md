@@ -40,10 +40,21 @@ https://colab.research.google.com/drive/1K1Ps8ESGly5yWgfr-MJ7hlQt9nzLSoMD?usp=sh
 
 ![image](https://user-images.githubusercontent.com/71905847/144426396-9cfad050-07bc-4958-b1fd-5b5ef4c4ae3d.png)
 
+***HEATmap для первых 20 экспресcированных генов:***
+
+![image](https://user-images.githubusercontent.com/71905847/144518013-b17a057a-eef6-44a9-ad25-d3e11a471fb5.png)
+
 ***MA_plot:***
 
 ![image](https://user-images.githubusercontent.com/71905847/144426735-21028db5-8b21-4e1d-a029-08904e9fbe5a.png)
 
 ***Normalized counts***
 
+![image](https://user-images.githubusercontent.com/71905847/144518158-aa808162-54d8-4d1c-bc6b-dac81b2536ad.png)
+
+![image](https://user-images.githubusercontent.com/71905847/144518191-94264479-9309-4aec-a966-dca53e23e1d0.png)
+
+![image](https://user-images.githubusercontent.com/71905847/144518261-ab38166a-1a35-4337-96cf-6e31dc7ad373.png)
+
+![image](https://user-images.githubusercontent.com/71905847/144518290-68aaa299-bf95-423f-8f2f-8e1e98f04492.png)
 
