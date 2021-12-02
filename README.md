@@ -2,6 +2,10 @@
 
 ## > Часть №1
 
+***Ссылка на google-collab:***
+
+https://colab.research.google.com/drive/12dnTTqWlv5f1T_se7m_dN7AbEFThxnT-?usp=sharing
+
 **_Приведём сравнительную характеристику из MutiQC:_**
 
 ![image](https://user-images.githubusercontent.com/71905847/144423664-eccd9056-8118-4f67-979d-a8e69a41348a.png)
