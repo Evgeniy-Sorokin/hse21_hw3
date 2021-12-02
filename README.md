@@ -1,4 +1,6 @@
-# hse21_hw3
+###***Домашнее задание №3***
+
+##>Часть №1
 
 **_Приведём сравнительную характеристику из MutiQC:_**
 
@@ -10,3 +12,14 @@
 ![image](https://user-images.githubusercontent.com/71905847/144424120-e4892e58-406f-4819-8f19-6eedcc396c8d.png)
 ![image](https://user-images.githubusercontent.com/71905847/144424165-fdffde9d-613e-404e-b1d6-090341c752b7.png)
 
+**_Для количества индивидуальных чтений имеем:_**
+
+![image](https://user-images.githubusercontent.com/71905847/144424763-6edfd598-b89f-4e9b-963b-1f0ac533f403.png)
+
+**_Для статистики HTSeq:_**
+
+![image](https://user-images.githubusercontent.com/71905847/144424971-9c8c9b6a-67bf-4f0a-8396-d877e3fc261f.png)
+
+**_Количество чтений, попавших на ген:_**
+
+![image](https://user-images.githubusercontent.com/71905847/144425213-d8728709-3836-49cc-ba1a-f0df878a2aec.png)
