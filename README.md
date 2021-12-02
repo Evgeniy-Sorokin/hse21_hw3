@@ -22,7 +22,7 @@
 
 **_Количество чтений, попавших на ген:_**
 
-![image](https://user-images.githubusercontent.com/71905847/144425213-d8728709-3836-49cc-ba1a-f0df878a2aec.png)
+![image](https://user-images.githubusercontent.com/71905847/144499440-601e665f-1d84-47e0-aff6-b8adc46ae585.png)
 
 
 ## > Часть №2
