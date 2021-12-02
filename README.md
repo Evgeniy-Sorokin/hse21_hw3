@@ -31,6 +31,11 @@ https://colab.research.google.com/drive/12dnTTqWlv5f1T_se7m_dN7AbEFThxnT-?usp=sh
 
 ## > Часть №2
 
+
+***Ссылка на google-collab-R:***
+
+https://colab.research.google.com/drive/1K1Ps8ESGly5yWgfr-MJ7hlQt9nzLSoMD?usp=sharing
+
 ***Тепловая карта (HEATmap):***
 
 ![image](https://user-images.githubusercontent.com/71905847/144426396-9cfad050-07bc-4958-b1fd-5b5ef4c4ae3d.png)
