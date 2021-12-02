@@ -23,3 +23,18 @@
 **_Количество чтений, попавших на ген:_**
 
 ![image](https://user-images.githubusercontent.com/71905847/144425213-d8728709-3836-49cc-ba1a-f0df878a2aec.png)
+
+
+## > Часть №2
+
+***Тепловая карта (HEATmap):***
+
+![image](https://user-images.githubusercontent.com/71905847/144426396-9cfad050-07bc-4958-b1fd-5b5ef4c4ae3d.png)
+
+***MA_plot:***
+
+![image](https://user-images.githubusercontent.com/71905847/144426735-21028db5-8b21-4e1d-a029-08904e9fbe5a.png)
+
+***Normalized counts***
+
+
